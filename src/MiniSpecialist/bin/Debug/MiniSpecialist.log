@@ -1,6 +1,0 @@
-2014-01-31 04:43:48.2796|TRACE|MainForm|Application Initialized
-
-2014-01-31 04:44:00.9953|ERROR|DataAccessLayer|[Method:GetValue] A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
-2014-01-31 04:44:01.1223|INFO|MainForm|Data @ Once isOn
-
-2014-01-31 04:44:01.1473|ERROR|DataAccessLayer|[Method:Get] A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
